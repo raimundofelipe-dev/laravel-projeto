@@ -16,4 +16,5 @@ class SupportController extends Controller
 
         return view('admin/supports/index');
     }
+    //a
 }
